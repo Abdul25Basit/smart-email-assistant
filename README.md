@@ -12,7 +12,7 @@
 - 🎨 **React Frontend** – User-friendly interface with state management and UI components.  
 - 🔄 **API Integration** – Efficiently consumes and structures API requests for smooth data flow.  
 - 📚 **Cross-Origin Resource Sharing (CORS) Handling** – Ensures secure API communication.  
-- 🚀 **Deployment Ready** – Covers deployment strategies, including Chrome Web Store submission.  
+
 
 ---
 
